@@ -12,7 +12,7 @@
 * Dataset
     * Create vectors from rating data by [MF](https://www.csie.ntu.edu.tw/~cjlin/libmf/) .
     * Add a category information to items. Category information is the third column of q (i.e. item). And, place your datasets at dataset directory.
-        *  Ex.)　An example dataset amazon_M200_category25.txt is at the directory.
+        * Ex.) An example dataset amazon_M200_category25.txt is at the directory.
         * Ex.) In amazon_M200_category25.txt, q25 (item) belongs to category 0.   
 
 * Algorithm (in `src` directory)
